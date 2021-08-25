@@ -28,8 +28,8 @@ Nafnspjald unnið í Inkscape og laser skorið í stofu 42 (framtíðarstofan)
 ### 1.3 Hulstur (e. casing) utan um Arduino **(5%)**
 
 * notaðu Inkscape til að hanna hulstur utan um Arduino fyrir [laserprentun](https://github.com/VESM1VS/H21-1/wiki/Laserprentun).
-* finndu viðauka (e. extension) til að vinna með.
-* merktu hulstur með nafninu þínu og logo-inu sem þú gerðir í lið 1.1.
+* notaðu [TabbedBoxMaker](https://github.com/VESM1VS/Efni/blob/main/Kennsluefni/TabbedBoxMaker.md) viðauka (e. extension) til að vinna með.
+* merktu hulstur með nafninu þínu.
 * Gerðu ráð fyrir að hægt sé að nota Arduino tölvuna þegar hún er í hulstrinu.
   * Hafðu göt fyrir snúrur.
 * útfærðu lokun.
@@ -37,7 +37,6 @@ Nafnspjald unnið í Inkscape og laser skorið í stofu 42 (framtíðarstofan)
 
 Málsett mynd af Arduino tölvunni er [hér](http://www.krekr.nl/wp-content/uploads/2013/08/Screen-shot-2013-08-28-at-18.14.41.png).
 
-Hönnun og útfærsla er frjáls að öðru leyti.
 
 ---
 
