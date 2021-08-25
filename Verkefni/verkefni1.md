@@ -36,7 +36,7 @@ Nafnspjald unnið í Inkscape og laser skorið í stofu 42 (framtíðarstofan)
 * vistaðu hönnunina með svg sniði.
 
 Málsett mynd af Arduino tölvunni er [hér](http://www.krekr.nl/wp-content/uploads/2013/08/Screen-shot-2013-08-28-at-18.14.41.png).
-
+<!-- Mælingar fyrir [hliðargöt](https://github.com/VESM1VS/Efni/blob/main/Myndir/TabbedBoxMaker_maeling.jpg) -->
 
 ---
 
